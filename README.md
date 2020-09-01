@@ -13,6 +13,9 @@ ALso in package.json under "scripts"
 then in command line
 git init 
 git remote add origin https://github.com/MickyWoo/React-Project-1.git
+
+git deploy 
+git push origin master
 ```
 
 ## Available Scripts
